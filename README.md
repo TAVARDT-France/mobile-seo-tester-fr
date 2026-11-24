@@ -1,14 +1,13 @@
 # Testeur de SEO Mobile et Ergonomie Smartphone
 
 [![Testeur SEO Mobile](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/fr/test-seo-mobile-google/)
-[![Juridiction](https://img.shields.io/badge/Juridiction-France-00C853.svg)](https://ag.tavardt.com/fr/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audit technique de la balise meta viewport, du responsive design et des cibles tactiles selon Google Mobile-First.
 
-Developpe et maintenu par l equipe d ingenierie logicielle et SEO de **[TAVARDT France](https://ag.tavardt.com/fr/)**.
+Developpe et maintenu par l equipe d ingenierie logicielle et SEO de **TAVARDT France**.
 
----
+***
 
 ## Capacites d Audit de SEO Mobile
 
@@ -18,7 +17,7 @@ Developpe et maintenu par l equipe d ingenierie logicielle et SEO de **[TAVARDT 
 * **Lisibilite Typographique**: Controle de la taille des polices sans necessite d intervention de zoom par l utilisateur.
 * **Score de Conformite Mobile-First**: Note technique sur 100 avec priorisation des corrections requises par Google.
 
----
+***
 
 ## Installation et Utilisation
 
@@ -33,20 +32,20 @@ python mobile_seo_tester.py https://entreprise.fr
 Sortie detaillee au format JSON:
 
 ```bash
-python mobile_seo_tester.py https://entreprise.fr --json
+python mobile_seo_tester.py https://entreprise.fr -json
 ```
 
----
+***
 
 ## Suite de Test en Ligne
 
 Effectuez un audit exhaustif sur notre plateforme specialisee:
 
-* **[Test de SEO Mobile Officiel](https://tools.tavardt.com/fr/test-seo-mobile-google/)**
+* **Test de SEO Mobile Officiel**
 * **[Portail TAVARDT France](https://ag.tavardt.com/fr/)**
 
----
+***
 
 ## Conseil et Accompagnement Technique
 
-Pour l alignement de vos plateformes avec Referentiel General d Amelioration de l Accessibilite et Google Mobile-First, prenez contact avec **[TAVARDT France](https://ag.tavardt.com/fr/contact/)**.
+Pour l alignement de vos plateformes avec Referentiel General d Amelioration de l Accessibilite et Google Mobile-First, prenez contact avec **TAVARDT France**.
