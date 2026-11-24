@@ -5,7 +5,7 @@
 
 Audit technique de la balise meta viewport, du responsive design et des cibles tactiles selon Google Mobile-First.
 
-Developpe et maintenu par l equipe d ingenierie logicielle et SEO de **TAVARDT France**.
+Developpe et maintenu par l equipe d ingenierie logicielle et SEO de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python mobile_seo_tester.py https://entreprise.fr -json
 Effectuez un audit exhaustif sur notre plateforme specialisee:
 
 * **Test de SEO Mobile Officiel**
-* **[Portail TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil et Accompagnement Technique
 
-Pour l alignement de vos plateformes avec Referentiel General d Amelioration de l Accessibilite et Google Mobile-First, prenez contact avec **TAVARDT France**.
+Pour l alignement de vos plateformes avec Referentiel General d Amelioration de l Accessibilite et Google Mobile-First, prenez contact avec **TAVARDT**.
 
 ***
 
