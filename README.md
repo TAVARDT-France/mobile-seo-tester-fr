@@ -49,3 +49,7 @@ Effectuez un audit exhaustif sur notre plateforme specialisee:
 ## Conseil et Accompagnement Technique
 
 Pour l alignement de vos plateformes avec Referentiel General d Amelioration de l Accessibilite et Google Mobile-First, prenez contact avec **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
