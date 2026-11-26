@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/fr/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Testeur de SEO Mobile et Ergonomie Smartphone
 
 [![Testeur SEO Mobile](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/fr/test-seo-mobile-google/)
